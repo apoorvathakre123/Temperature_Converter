@@ -1,2 +1,2 @@
 # Temprature_Converter
-This Project is a simple convert the temrature from Celsius to Fahrenheit  and vice versa application built using HTML,CSS and JavaScript in a single html file.
+This project is a simple temperature converter application, capable of converting temperatures from Celsius to Fahrenheit and vice versa. It is built using HTML, CSS, and JavaScript within a single HTML file.
